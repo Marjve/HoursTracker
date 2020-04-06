@@ -31,4 +31,7 @@ After you clone this project, do the following:
 * npm run watch
 * php artisan serve
 
+# make sure storage dir is writable
+* chmod -R 777 storage
+
 
